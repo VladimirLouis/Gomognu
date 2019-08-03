@@ -9,6 +9,7 @@ Java Swing  <a href="https://en.wikipedia.org/wiki/Gomoku"> Connect five/Gomoku<
   <li>Play against AI(only one level)</li>
   <li>Saving and loading games</li>
   <li>Switch side while game is in session</li>
+  <li>Undo/Redo</li>
 
 
 
