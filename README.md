@@ -6,6 +6,7 @@ Java Swing  <a href="https://en.wikipedia.org/wiki/Gomoku"> Connect five/Gomoku<
 <ul>
   <li>Only the 19x19 board game is currently available.</li>
   <li>Two Player mode</li>
+  <li>Play against AI(only one level)</li>
 
 
 
