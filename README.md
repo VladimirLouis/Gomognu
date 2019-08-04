@@ -14,9 +14,9 @@ Java Swing  <a href="https://en.wikipedia.org/wiki/Gomoku"> Connect five/Gomoku<
   <li>Undo/Redo</li>
 </ul>
 
-<h1> AI Implementation</h1>
+<h1>AI Implementation</h1>
 The AI is implemented using the Minimax Algorithm with Alpha Beta pruning. An area enclosing the pieces is first calculated. The available intersections within that area is used to quickly get a set of best moves for the AI at depth 1. Then we calculate the best move for the engine at depth 3 using the intersections from the previous calculations. As of now no time is set for said calculations. <br>
-The Heuristics is somewhat experimental; I am attempting to capture the way I play with the heuristics
+The heuristics function is somewhat experimental; I am attempting to capture the way I see the board.  
 
 
 
