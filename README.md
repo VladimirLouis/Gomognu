@@ -13,5 +13,5 @@ Java Swing  <a href="https://en.wikipedia.org/wiki/Gomoku"> Connect five/Gomoku<
   <li>Undo/Redo</li>
 </ul>
 
-<h1> AI implementation</h1>
+<h1> AI Implementation</h1>
 
